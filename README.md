@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+  
+  [![Jakobs GitHub stats](https://github-readme-stats.vercel.app/api?username=jakobhoeg)](https://github.com/anuraghazra/github-readme-stats)
+
+  [Webiste](https://jakobhoeg.dev) | [LinkedIn](https://www.linkedin.com/in/jakob-hoeg-moerk/)
+</div>
 
 <!--
 **jakobhoeg/jakobhoeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
