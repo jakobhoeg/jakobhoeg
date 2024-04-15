@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Jakobs GitHub stats](https://github-readme-stats.vercel.app/api?username=jakobhoeg)](https://github.com/anuraghazra/github-readme-stats)
+  [![Jakobs GitHub stats](https://github-readme-stats.vercel.app/api?username=jakobhoeg)](https://github.com/jakobhoeg)
 
   [Webiste](https://jakobhoeg.dev) | [LinkedIn](https://www.linkedin.com/in/jakob-hoeg-moerk/)
 </div>
